@@ -4,7 +4,7 @@
   /*Section 1 Styles: Modal and Logo */
   
   .section1 {
-      background-image: url("../assets/backgrounds/FoodBG.jpg");
+      background-image: url("../assets/backgrounds/landing.jpg");
       background-size: cover;
       overflow: hidden;
       margin-left: -10%;
