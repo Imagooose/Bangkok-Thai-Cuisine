@@ -5,10 +5,12 @@
   
   .section1 {
       background-image: url("../assets/backgrounds/FoodBG2.jpg");
-      background-size: cover;
+      background-size:cover;
       overflow: hidden;
       margin-left: -10%;
       margin-right: -10%;
+      width: 40px;
+      height: 40px;
   }
   /*Modal Section Styles */
   
@@ -44,7 +46,7 @@
   }
   
   .modal-footer .btn {
-      font-size: 20px;
+      font-size: 100px;
       color: black;
   }
   /*Logo and Slogan Styles */
