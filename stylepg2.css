@@ -79,3 +79,14 @@ body{
     border-radius: 5px;
     width: 180px;
 }
+.backbut>button{
+    background-color: #a32869;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
