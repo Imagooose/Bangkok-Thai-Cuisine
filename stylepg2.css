@@ -79,7 +79,7 @@ body{
     border-radius: 5px;
     width: 180px;
 }
-.backbut>button{
+.butt>a{
     background-color: #a32869;
     border: none;
     color: white;
