@@ -21,6 +21,14 @@ body{
     grid-column: 1/-1;
     text-align: center;
 }
+.button2{
+    background-color: #a32869;
+    color: #ffffff;
+    margin-bottom: 30px;
+    padding: 50px 0 25px 0;
+    text-align: left;
+}
+       
 .heading>h1{
     font-weight: 400;
     font-size: 30px;
