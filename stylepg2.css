@@ -24,8 +24,8 @@ body{
 .button2{
     background-color: #a32869;
     color: #ffffff;
-    margin-bottom: 30px;
-    padding: 50px 0 25px 0;
+    padding: 0;
+    grid-column: 1/-1;
     text-align: left;
 }
        
